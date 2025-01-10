@@ -1,1 +1,2 @@
-estas son las condiciones para nada xd, estoy intentando subir los archivos a gitbub con git push pero no puedo, entonces voy hacer otro commit para saber si se marca en github y luego poder hacerle el git push y saber si siempre se hizo el commit
+hola, soy david y cambie las condiciones ..........
+
